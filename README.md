@@ -1,4 +1,4 @@
-*Zad 1 Docker*
+**Zad 1 Docker**
 
 3.0 obraz ubuntu z Pythonem w wersji 3.8
 
