@@ -43,3 +43,19 @@ Termin: 03.11
 
 
 Termin: 23.11
+
+
+**Zad 4 Lista zadań**
+
+3.0 wyświetla listę z góry określonych zadań (ArrayList)
+
+3.5 pobiera zadania via data binding
+
+4.0 usuwanie (swipe) zadań
+
+4.5 stworzenie view modelu z polami: nazwa, opis, data, status + widok
+
+5.0 dodanie SQLite
+
+
+Termin: 20.11
