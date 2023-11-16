@@ -58,4 +58,4 @@ Termin: 23.11
 5.0 dodanie SQLite
 
 
-Termin: 20.11
+Termin: 30.11
